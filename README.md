@@ -156,4 +156,4 @@ versions used in this analysis.
 
 ## License
 
-MIT © [Your Name]
+MIT
