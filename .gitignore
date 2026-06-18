@@ -1,0 +1,12 @@
+# Raw 10x data and processed objects (too large)
+data/filtered_gene_bc_matrices/
+data/*.rds
+*.tar.gz
+
+# knitr cache (never push this)
+*_cache/
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
