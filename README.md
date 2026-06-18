@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # scRNA-seq Analysis of Human PBMCs using Seurat
 
 End-to-end single-cell RNA-seq pipeline built in R identifying 8 immune
