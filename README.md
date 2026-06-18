@@ -16,9 +16,6 @@ reduction, graph-based clustering, differential expression, and manual
 cell type annotation. The full analysis is written as a reproducible R
 Markdown document that knits to a self-contained HTML report.
 
-**Live report:** [View the knitted
-analysis](https://Cynric07.github.io/scRNA-PBMC-Seurat/)
-
 ------------------------------------------------------------------------
 
 ## Dataset
